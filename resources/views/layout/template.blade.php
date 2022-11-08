@@ -46,7 +46,7 @@
 
       <a href="#" class="logo d-flex align-items-center">
         <img src="assets/img/logo-kalsel.png" alt="">
-        <span>Balitbangda</span>
+        <span>BALITBANGDA</span>
       </a>
 
       <nav id="navbar" class="navbar">
@@ -183,14 +183,14 @@
 
           <div class="col-lg-6 d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
             <div class="content">
-              <h3>Who We Are</h3>
+              <h3>SIAPA KAMI</h3>
               <h2>Badan Penelitian dan Pengembangan Daerah Provinsi Kalimantan Selatan</h2>
               <p>
-                Quisquam vel ut sint cum eos hic dolores aperiam. Sed deserunt et. Inventore et et dolor consequatur itaque ut voluptate sed et. Magnam nam ipsum tenetur suscipit voluptatum nam et est corrupti.
+                Merupakan perangkat daerah di Provinsi Kalimantan Selatan yang mempunyai tugas pokok melaksanakan urusan perumusan kebijakan dan pelakasanaan Litbang, pelaksanaan Pengkajian Program Pembangunan di daerah untuk Kalimantan Selatan.
               </p>
               <div class="text-center text-lg-start">
                 <a href="#" class="btn-read-more d-inline-flex align-items-center justify-content-center align-self-center">
-                  <span>Lebih Lanjut</span>
+                  <span>Beranda</span>
                   <i class="bi bi-arrow-right"></i>
                 </a>
               </div>

@@ -20,3 +20,7 @@ Route::get('/', function () {
 Route::get('/admin', function () {
     return view('layout.dashboard');
 });
+
+Route::get('/berita', function () {
+    return view('layout.create_berita');
+});
